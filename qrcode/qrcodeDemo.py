@@ -12,4 +12,4 @@ qr.add_data('xinxingzhao')
 qr.make(fit=True)
 
 img = qr.make_image()
-img.save('qrcode.png')
+img.save('qrcode.png','png')
