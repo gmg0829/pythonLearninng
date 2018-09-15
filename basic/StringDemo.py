@@ -1,19 +1,16 @@
-import re
 str1='hello'
 str2='world'
+#字符串拼接
 str=str1+str2
-#print(str)
+print(str)
+#将序列的元素以指定的字符连接生成一个新的字符串
 str3=['hi','hello','python']
-#print('.'.join(str3))
+print('.'.join(str3))
 phone='137-1111-1126'
-#print(phone.split('-'))
-#print(phone.find('6'))
+#通过指定分隔符对字符串进行切片
+print(phone.split('-'))
+#如果包含子字符串返回开始的索引值，否则返回-1
+print(phone.find('0'))
+#移除字符串头尾指定的字符
 line='-ssss-'
-#print(line.strip('-'))
-patt=re.compile(r'^(137|184)\d{6,8}$')
-strr='137456781'
-m=re.match(patt,strr)
-if m:
-    print('match')
-else:
-    print('no match')
+print(line.strip('-'))
