@@ -1,16 +1,25 @@
 import asyncio
+import aiohttp
+import time
 
-async def execute(x):
-    print('Number:', x)
-    return x
+start = time.time()
 
-coroutine = execute(1)
-print('Coroutine:', coroutine)
-print('After calling execute')
+async def get(url):
+    session = aiohttp.ClientSession()
+    response = await session.get(url)
+    result = await response.text()
+    session.close()
+    return result
 
+async def request():
+    url = 'http://127.0.0.1:5000'
+    print('Waiting for', url)
+    result = await get(url)
+    print('Get response from', url, 'Result:', result)
+
+tasks = [asyncio.ensure_future(request()) for _ in range(5)]
 loop = asyncio.get_event_loop()
-task = loop.create_task(coroutine)
-print('Task:', task)
-loop.run_until_complete(task)
-print('Task:', task)
-print('After calling loop')
+loop.run_until_complete(asyncio.wait(tasks))
+
+end = time.time()
+print('Cost time:', end - start)
