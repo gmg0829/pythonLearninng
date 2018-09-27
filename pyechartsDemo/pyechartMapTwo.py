@@ -11,4 +11,5 @@ map=Map("各省市人口数", "单位：万人", title_color="#fff", title_pos="
 attr=data['city']
 value=data['popu']
 map.add("", attr, value, visual_range=[min(value), max(value)],visual_text_color="#000", symbol_size=15,is_visualmap=True,is_label_show=True,label_pos = 'bottom')
+map.render("地图.html")
 map

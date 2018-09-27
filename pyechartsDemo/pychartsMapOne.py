@@ -1,4 +1,7 @@
 from pyecharts import Geo
+# pip install echarts-countries-pypkg
+# pip install echarts-china-provinces-pypkg
+# pip install echarts-china-cities-pypkg
 
 data = [
     ("海门", 9), ("鄂尔多斯", 12), ("招远", 12), ("舟山", 12), ("齐齐哈尔", 14), ("盐城", 15),
