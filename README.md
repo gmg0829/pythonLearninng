@@ -1,10 +1,36 @@
 ## python库实战
-beautifulsoup  爬虫    
-hashlib   加密  
-itertools  迭代器  
-PIL   操作图像  
-tkinter  图形化  
-urllib  网络请求库  
-qrcode 二维码  
-OpenCv 图像识别  
-pytesseract  文字识别   
+
+### GUI图形界面
+ - Tkinter
+
+### web框架
+ - django
+ - flask
+
+### 科学计算
+- numpy
+- pandas
+
+### 密码学
+- cryptography
+- PyCrypto
+
+### 爬虫相关
+ - urllib
+ - request
+ - scrapy
+ - pyspider
+ - BeautifulSoup
+ - selenium
+
+### 图像处理
+ - pillow
+ - qrcode
+
+ ### 时间处理
+  - dateutil
+  - arrow
+
+### 光学字符识别库
+ - python-tesseract
+
