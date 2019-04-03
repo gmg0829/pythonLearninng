@@ -1,0 +1,13 @@
+pip list  #列出所有安装的库
+pip list --outdated #列出所有过期的库
+pip install --upgrade 库名
+pip install -r requirements.txt
+pip uninstall <包名>
+pip install <包名> -i https://mirrors.aliyun.com/pypi/simple
+
+指定全局安装源
+在unix和macos，配置文件为：$HOME/.pip/pip.conf
+在windows上，配置文件为：%HOME%\pip\pip.ini
+[global]
+timeout = 6000
+index-url = https://mirrors.aliyun.com/pypi/simple

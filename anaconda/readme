@@ -1,0 +1,7 @@
+conda upgrade --all
+conda install numpy scipy pandas
+conda install numpy=1.10
+conda remove package_name
+conda update package_name
+conda list
+conda  search search_term
