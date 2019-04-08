@@ -1,0 +1,11 @@
+a=1
+b=100000
+c=12.34
+d='a'
+d=1+5j
+f=True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(f))

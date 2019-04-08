@@ -1,0 +1,11 @@
+a=321
+b=123
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+c=2
+d=4
+print(c**d)

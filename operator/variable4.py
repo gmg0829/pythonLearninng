@@ -1,0 +1,9 @@
+a=100
+b=str(a)
+d='123'
+e=int(d)
+f='12.34'
+g=float(f)
+k='hello'
+h=bool(k)
+print(h)

@@ -1,5 +1,10 @@
 hello = (1, 2, 3)
 li = [1, "2", [3, 'a'], (1, 3), hello]
+li.append("pytaya")
+li.insert(0,'balabala')
+li.pop()
+li.pop(0)
+li.remove('2')
 #访问元素
 print(li[3],li[-2])
 #切片访问
