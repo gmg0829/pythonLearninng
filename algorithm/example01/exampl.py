@@ -18,3 +18,7 @@ def bin_search(items, elem):
         else:
             return mid
     return -1
+
+
+if __name__ == '__main__':
+   print(seq_search([35, 97, 12, 68, 55, 73, 81, 40], 350))
