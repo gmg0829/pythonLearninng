@@ -46,4 +46,8 @@ left = pd.DataFrame({'key': ['foo', 'bar'], 'lval': [1, 2]})
 right = pd.DataFrame({'key': ['foo', 'bar'], 'rval': [4, 5]})
 middle=pd.merge(left, right, on='key')
 #print(middle)
-
+x=1
+y=2
+c=True
+result=x if c else y
+print(result)
