@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5e72737-ae16-4ba9-bd83-c9612797fec2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itchatDemo/itchatDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reTest/reTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy/NumpyBasic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/NumpyBasic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/codeset.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/codeset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pycrypto/pycryptoDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pycrypto/pycryptoDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance/example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object/enumDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommend/recommend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adnavce/filterDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance/filterDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adnavce/lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance/lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adnavce/mapdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/advance/mapdemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,6 +30,7 @@
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$tcpSocket.coverage" NAME="tcpSocket Coverage Results" MODIFIED="1555145587611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/network" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$py_test_for_test_example_TestExample01_test_seq_search.coverage" NAME="py.test for test_example.TestExample01.test_seq_search Coverage Results" MODIFIED="1555149815143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$variable1.coverage" NAME="variable1 Coverage Results" MODIFIED="1554702101362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operator" />
+    <SUITE FILE_PATH="coverage/pythonLearninng$enumDemo.coverage" NAME="enumDemo Coverage Results" MODIFIED="1561188356152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$asyncio3.coverage" NAME="asyncio3 Coverage Results" MODIFIED="1555136698182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/asyncio" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$multiExtend.coverage" NAME="multiExtend Coverage Results" MODIFIED="1554896718928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/object" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$multithread6.coverage" NAME="multithread6 Coverage Results" MODIFIED="1555139177315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
@@ -61,6 +63,7 @@
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1555148433022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/designModel" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$multithread4.coverage" NAME="multithread4 Coverage Results" MODIFIED="1555143490157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thread" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$file1.coverage" NAME="file1 Coverage Results" MODIFIED="1554982775894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
+    <SUITE FILE_PATH="coverage/pythonLearninng$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1561196502423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advance" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$reTest.coverage" NAME="reTest Coverage Results" MODIFIED="1555660491971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reTest" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$leap.coverage" NAME="leap Coverage Results" MODIFIED="1554701286000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$csv2.coverage" NAME="csv2 Coverage Results" MODIFIED="1554982168141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/file" />
@@ -80,17 +83,7 @@
     <SUITE FILE_PATH="coverage/pythonLibraryLearninng$NumpyBasic.coverage" NAME="NumpyBasic Coverage Results" MODIFIED="1555569867701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="itchatDemo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/itchatDemo/itchatDemo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,6 +110,8 @@
       <find>hashlib</find>
       <find>aiohttp</find>
       <find>re</find>
+      <find>roll_dice</find>
+      <find>Enum</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,9 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/str/test3.py" />
-        <option value="$PROJECT_DIR$/asyncio/asyncio1.py" />
-        <option value="$PROJECT_DIR$/asyncio/asyncio2.py" />
         <option value="$PROJECT_DIR$/asyncio/asyncio3.py" />
         <option value="$PROJECT_DIR$/asyncio/coroutine1.py" />
         <option value="$PROJECT_DIR$/asyncio/coroutine2.py" />
@@ -176,6 +168,9 @@
         <option value="$PROJECT_DIR$/pycrypto/pycryptoDemo.py" />
         <option value="$PROJECT_DIR$/basic/codeset.py" />
         <option value="$PROJECT_DIR$/itchatDemo/itchatDemo.py" />
+        <option value="$PROJECT_DIR$/recommend/recommend.py" />
+        <option value="$PROJECT_DIR$/object/enumDemo.py" />
+        <option value="$PROJECT_DIR$/advance/example2.py" />
       </list>
     </option>
   </component>
@@ -188,7 +183,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="42" />
     <option name="width" value="1890" />
     <option name="height" value="963" />
@@ -206,13 +201,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="pythonLibraryLearninng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonLibraryLearninng" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonLearninng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonLearninng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="pythonLibraryLearninng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pythonLibraryLearninng" type="462c0819:PsiDirectoryNode" />
-              <item name="itchatDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonLearninng" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonLearninng" type="462c0819:PsiDirectoryNode" />
+              <item name="advance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,12 +217,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/pythonCode/sampleproject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\pythonLearninng\advance" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\github\pythonLibraryLearninng\scikit-learn" />
       <recent name="E:\github\pythonLibraryLearninng\file" />
@@ -245,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.itchatDemo">
+  <component name="RunManager" selected="Python.example2">
     <configuration name="pythonLibraryLearninng" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="pythonLibraryLearninng" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,25 +260,6 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
-    </configuration>
-    <configuration name="NumpyBasic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonLibraryLearninng" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy/NumpyBasic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="codeset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonLibraryLearninng" />
@@ -301,6 +280,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="enumDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonLibraryLearninng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object/enumDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="example2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonLibraryLearninng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advance/example2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="itchatDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonLibraryLearninng" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,25 +332,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itchatDemo/itchatDemo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="pandasOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonLibraryLearninng" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandasDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandasDemo/pandasOne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,19 +358,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.pythonLibraryLearninng" />
-      <item itemvalue="Python.NumpyBasic" />
-      <item itemvalue="Python.pandasOne" />
       <item itemvalue="Python.reTest" />
       <item itemvalue="Python.codeset" />
       <item itemvalue="Python.itchatDemo" />
+      <item itemvalue="Python.enumDemo" />
+      <item itemvalue="Python.example2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example2" />
+        <item itemvalue="Python.enumDemo" />
         <item itemvalue="Python.itchatDemo" />
         <item itemvalue="Python.codeset" />
         <item itemvalue="Python.reTest" />
-        <item itemvalue="Python.pandasOne" />
-        <item itemvalue="Python.NumpyBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -459,30 +457,30 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.47311828" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.63261646" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3297491" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.47311828" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.5430108" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25222313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25303152" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.3293348" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32078853" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32078853" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,97 +532,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thread/multiprocess2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/multiprocess1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/multiprocess4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/multithread4_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/multithread5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/multithread6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/multiprocess5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/multiprocess6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network/download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network/tcpSocket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network/tcpClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network/mulitiServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="989">
-          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network/multiClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/network/chatclient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -691,13 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/advance/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/asyncio/aiohttpDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-139">
@@ -714,13 +614,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scikit-learn/Data.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tf/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scikit-learn/CoreMLModelDemo.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -787,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reTest/reTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algorithm/example01/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -856,10 +742,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/math/mathDemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/itchatDemo/itchatDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf/example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/functionDemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/returnFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/anonymousFunction.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend/recommend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reTest/reTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance/mapdemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance/lambda.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object/lotsDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object/object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276">
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object/enumDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance/example1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance/example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
