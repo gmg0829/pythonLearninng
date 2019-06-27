@@ -5,7 +5,7 @@ import time
 
 
 """
-一个进程处理两个个表
+一个进程处理两个表
 """
 conn = psycopg2.connect(dbname="postgres", user="postgres",
         password="123456", host="192.168.1.166", port="5432")

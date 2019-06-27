@@ -1,6 +1,7 @@
 import psycopg2
 import time
 import multiprocessing
+# https://blog.csdn.net/weixin_43086579/article/details/84801384
 
 conn1 = psycopg2.connect(dbname="postgres", user="postgres",
         password="123456", host="192.168.1.166", port="5432")
